@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="01.040 Running Your First Program/src"/>
+	<classpathentry kind="src" path="01.070 The Main Method/src"/>
+	<classpathentry kind="src" path="01.080 Formatting and Code Blocks/src"/>
+	<classpathentry kind="src" path="02.100 Integer Variables/src"/>
+	<classpathentry kind="src" path="02.110 Addition/src"/>
+	<classpathentry kind="src" path="02.120 Outputting Variables and Text/src"/>
+	<classpathentry kind="src" path="02.130 Doubles/src"/>
+	<classpathentry kind="src" path="02.140 Arithmetic/src"/>
+	<classpathentry kind="src" path="02.150 Variable Assignment/src"/>
+	<classpathentry kind="src" path="02.160 Calculations/src"/>
+	<classpathentry kind="src" path="02.190 Converting Temperatures/src"/>
+	<classpathentry kind="src" path="03.010 Strings/src"/>
+	<classpathentry kind="src" path="03.020 Joining Strings/src"/>
+	<classpathentry kind="src" path="03.030 Control Characters/src"/>
+	<classpathentry kind="src" path="03.040 Outputting a Menu/src"/>
+	<classpathentry kind="src" path="03.050 Format Specifiers/src"/>
+	<classpathentry kind="src" path="03.060 Format Specifiers Example/src"/>
+	<classpathentry kind="src" path="03.070 User Input/src"/>
+	<classpathentry kind="src" path="04.010 While Loops/src"/>
+	<classpathentry kind="src" path="04.020 Loop Conditions/src"/>
+	<classpathentry kind="src" path="04.040 Increment and Decrement/src"/>
+	<classpathentry kind="src" path="04.050 PostfixAndPrefix/src"/>
+	<classpathentry kind="src" path="04.060 Postfix and Prefix Expressions/src"/>
+	<classpathentry kind="src" path="04.090 More While Loops/src"/>
+	<classpathentry kind="src" path="04.100 For loops/src"/>
+	<classpathentry kind="src" path="04.110 Boolean/src"/>
+	<classpathentry kind="src" path="04.120 Equality/src"/>
+	<classpathentry kind="src" path="04.130 If/src"/>
+	<classpathentry kind="src" path="04.140 Using If/src"/>
+	<classpathentry kind="src" path="04.150 If Else/src"/>
+	<classpathentry kind="src" path="04.160 If Else If/src"/>
+	<classpathentry kind="src" path="04.170 More If Else If/src"/>
+	<classpathentry kind="src" path="04.180 One Line If/src"/>
+	<classpathentry kind="src" path="04.190 Converting If Else to Switch/src"/>
+	<classpathentry kind="src" path="04.190 Switch/src"/>
+	<classpathentry kind="src" path="04.200 Switch Fallthrough/src"/>
+	<classpathentry kind="src" path="04.210 The String Equals Method/src"/>
+	<classpathentry kind="src" path="04.220 The Final Keyword/src"/>
+	<classpathentry kind="src" path="04.230 Break/src"/>
+	<classpathentry kind="src" path="04.240 Checking Passwords/src"/>
+	<classpathentry kind="src" path="04.250 Password Loops/src"/>
+	<classpathentry kind="src" path="04.260 Do While Loops/src"/>
+	<classpathentry kind="src" path="04.270 Not/src"/>
+	<classpathentry kind="src" path="04.280 Not Equal/src"/>
+	<classpathentry kind="src" path="04.290 Variable Scope/src"/>
+	<classpathentry kind="src" path="04.300 Checking Passwords with Do While/src"/>
+	<classpathentry kind="src" path="04.310 Flags/src"/>
+	<classpathentry kind="src" path="04.420 Limited Attempts/src"/>
+	<classpathentry kind="src" path="04.430 String Methods/src"/>
+	<classpathentry kind="src" path="04.440 Case Insensitivity Exercise/src"/>
+	<classpathentry kind="src" path="04.450 Case Insensitivity Exercise Solution/src"/>
+	<classpathentry kind="src" path="04.460 Stream Loops/src"/>
+	<classpathentry kind="src" path="05.010 Arrays/src"/>
+	<classpathentry kind="src" path="05.020 Arrays of Strings/src"/>
+	<classpathentry kind="src" path="05.030 Iterating Over Arrays/src"/>
+	<classpathentry kind="src" path="05.040 Iterating with IntStream/src"/>
+	<classpathentry kind="src" path="05.050 Primitive Arrays - A Closer Look/src"/>
+	<classpathentry kind="src" path="05.060 Primitive Arrays Exercise Solution/src"/>
+	<classpathentry kind="src" path="05.070 For Each Loops/src"/>
+	<classpathentry kind="src" path="05.080 Stream For Each Loops/src"/>
+	<classpathentry kind="src" path="05.100 Non-Primitive Arrays/src"/>
+	<classpathentry kind="src" path="05.110 Multidimensional Arrays/src"/>
+	<classpathentry kind="src" path="05.120 Working With Multidimensional Arrays/src"/>
+	<classpathentry kind="src" path="05.130 Multidimensional Array Exercise/src"/>
+	<classpathentry kind="src" path="05.140 Multidimensional Arrays Exercise Solution/src"/>
+	<classpathentry kind="src" path="05.150 Multiplication Tables/src"/>
+	<classpathentry kind="src" path="06.010 Classes and Objects/src"/>
+	<classpathentry kind="src" path="06.020 Instance Variables/src"/>
+	<classpathentry kind="src" path="06.030 Methods/src"/>
+	<classpathentry kind="src" path="06.040 Accessing Instance Variables/src"/>
+	<classpathentry kind="src" path="06.050 Menu Example/src"/>
+	<classpathentry kind="src" path="06.060 Menu Example Implementation/src"/>
+	<classpathentry kind="src" path="06.070 Return Values/src"/>
+	<classpathentry kind="src" path="06.080 Menu Returning String/src"/>
+	<classpathentry kind="src" path="06.090 Method Parameters/src"/>
+	<classpathentry kind="src" path="06.100 Multiple Parameters/src"/>
+	<classpathentry kind="src" path="06.110 Getters and Setters/src"/>
+	<classpathentry kind="src" path="06.120 This/src"/>
+	<classpathentry kind="src" path="06.130 Public and Private/src"/>
+	<classpathentry kind="src" path="06.140 Window Example/src"/>
+	<classpathentry kind="src" path="06.160 Constructors/src"/>
+	<classpathentry kind="src" path="06.170 Constructors with Parameters/src"/>
+	<classpathentry kind="src" path="06.180 toString/src"/>
+	<classpathentry kind="src" path="06.190 Automatically Generating Classes/src"/>
+	<classpathentry kind="src" path="07.010 Hangman/src"/>
+	<classpathentry kind="src" path="07.030 A RandomWord Class/src"/>
+	<classpathentry kind="src" path="07.040 Random/src"/>
+	<classpathentry kind="src" path="07.050 The char Type/src"/>
+	<classpathentry kind="src" path="07.060 Char Arrays/src"/>
+	<classpathentry kind="src" path="07.070 StringBuilder/src"/>
+	<classpathentry kind="src" path="07.080 Using StringBuilder/src"/>
+	<classpathentry kind="src" path="07.090 The Ternary Operator/src"/>
+	<classpathentry kind="src" path="07.100 Using the Ternary Operator/src"/>
+	<classpathentry kind="src" path="07.110 Filling in Characters/src"/>
+	<classpathentry kind="src" path="07.120 Closing the Scanner/src"/>
+	<classpathentry kind="src" path="07.130 Checking User Input/src"/>
+	<classpathentry kind="src" path="07.140 Limited Tries/src"/>
+	<classpathentry kind="src" path="08.010 Boolean And/src"/>
+	<classpathentry kind="src" path="08.020 Boolean Or/src"/>
+	<classpathentry kind="src" path="08.030 Complex Boolean Conditions/src"/>
+	<classpathentry kind="src" path="09.010 Static and Final/src"/>
+	<classpathentry kind="src" path="09.020 Static Variables/src"/>
+	<classpathentry kind="src" path="09.030 Static Methods/src"/>
+	<classpathentry kind="src" path="09.040 Assigning IDs/src"/>
+	<classpathentry kind="src" path="09.050 Static Initialization Blocks/src"/>
+	<classpathentry kind="src" path="10.010 Inheritance/src"/>
+	<classpathentry kind="src" path="10.020 Overriding Methods/src"/>
+	<classpathentry kind="src" path="10.030 The Override Annotation/src"/>
+	<classpathentry kind="src" path="10.040 Subtype Polymorphism/src"/>
+	<classpathentry kind="src" path="10.050 Casting and Runtime Errors/src"/>
+	<classpathentry kind="src" path="10.060 Protected/src"/>
+	<classpathentry kind="src" path="10.070 Final Classes/src"/>
+	<classpathentry kind="src" path="11.010 Rock Paper Scissors/src"/>
+	<classpathentry kind="src" path="11.020 A Game Object/src"/>
+	<classpathentry kind="src" path="11.030 Game Objects/src"/>
+	<classpathentry kind="src" path="11.040 Naming Objects/src"/>
+	<classpathentry kind="src" path="11.050 Choosing Objects/src"/>
+	<classpathentry kind="src" path="11.060 Comparing Objects/src"/>
+	<classpathentry kind="src" path="11.070 CompareTo/src"/>
+	<classpathentry kind="src" path="11.080 The Comparable Interface/src"/>
+	<classpathentry kind="src" path="11.090 UserPicksAnObject/src"/>
+	<classpathentry kind="src" path="11.100 WinDrawLose/src"/>
+	<classpathentry kind="src" path="11.110 GameLoop/src"/>
+	<classpathentry kind="src" path="11.120 Accouncing the Winner/src"/>
+	<classpathentry kind="src" path="12.010 Method Overloading/src"/>
+	<classpathentry kind="src" path="12.020 Default Constructors/src"/>
+	<classpathentry kind="src" path="12.030 Constructor Chaining/src"/>
+	<classpathentry kind="src" path="12.040 Super/src"/>
+	<classpathentry kind="src" path="13.010 Hello World Swing/src"/>
+	<classpathentry kind="src" path="13.020 SwingUtilities/src"/>
+	<classpathentry kind="src" path="13.030 Swing Custom Components/src"/>
+	<classpathentry kind="src" path="13.040 Panels and Layouts/src"/>
+	<classpathentry kind="src" path="13.050 Toolbars/src"/>
+	<classpathentry kind="src" path="14.010 Packages/src"/>
+	<classpathentry kind="src" path="14.020 AccessModifiers/src"/>
+	<classpathentry kind="src" path="14.040 Main Methods/src"/>
+	<classpathentry kind="src" path="14.050 Upcasting/src"/>
+	<classpathentry kind="src" path="14.060 Downcasting/src"/>
+	<classpathentry kind="src" path="14.070 Object/src"/>
+	<classpathentry kind="src" path="14.080 Abstract Classes/src"/>
+	<classpathentry kind="src" path="14.090 Interfaces/src"/>
+	<classpathentry kind="src" path="14.091 Interface Inheritance/src"/>
+	<classpathentry kind="src" path="14.092 Interface Default Methods/src"/>
+	<classpathentry kind="src" path="14.093 Multiple Inheritance/src"/>
+	<classpathentry kind="src" path="14.100 Abstract Class Example/src"/>
+	<classpathentry kind="src" path="14.110 Interface Example/src"/>
+	<classpathentry kind="src" path="14.130 An Egg Timer/src"/>
+	<classpathentry kind="src" path="15.030 Button Clicks/src"/>
+	<classpathentry kind="src" path="15.040 Changing Color/src"/>
+	<classpathentry kind="src" path="15.050 Naive App Control/src"/>
+	<classpathentry kind="src" path="15.060 About References/src"/>
+	<classpathentry kind="src" path="15.080 Color Button Listener/src"/>
+	<classpathentry kind="src" path="15.100 Decoupling Using Interfaces/src"/>
+	<classpathentry kind="src" path="16.010 HashCode and This/src"/>
+	<classpathentry kind="src" path="16.020 Local Inner Classes/src"/>
+	<classpathentry kind="src" path="16.030 Local Inner Classes Example/src"/>
+	<classpathentry kind="src" path="16.040 Effectively Final/src"/>
+	<classpathentry kind="src" path="16.050 Static Inner Classes/src"/>
+	<classpathentry kind="src" path="16.060 Non-static Inner Classes/src"/>
+	<classpathentry kind="src" path="16.070 Anonymous Classes/src"/>
+	<classpathentry kind="src" path="16.080 Inner Class Review/src"/>
+	<classpathentry kind="src" path="17.010 Handling Button Clicks With Inner Classes/src"/>
+	<classpathentry kind="src" path="17.020 Handling Button Clicks With Lambda Expressions/src"/>
+	<classpathentry kind="src" path="18.010 Enum/src"/>
+	<classpathentry kind="src" path="18.020 Enum Useful Methods/src"/>
+	<classpathentry kind="src" path="18.030 Enum Constructors/src"/>
+	<classpathentry kind="src" path="18.040 Enum and Switch/src"/>
+	<classpathentry kind="src" path="18.050 Enum Exercise/src"/>
+	<classpathentry kind="src" path="18.060 Enum Exercise Solution/src"/>
+	<classpathentry kind="src" path="18.070 Improving Rock Paper Scissors/src"/>
+	<classpathentry kind="src" path="18.080 Implementing the Beats Method/src"/>
+	<classpathentry kind="src" path="18.090 Using Beats/src"/>
+	<classpathentry kind="src" path="18.100 Eliminating Unecessary Code/src"/>
+	<classpathentry kind="src" path="19.010 IntroducingExceptions/src"/>
+	<classpathentry kind="src" path="19.020 Try Catch/src"/>
+	<classpathentry kind="src" path="19.030 Some Exception Exercises/src"/>
+	<classpathentry kind="src" path="19.040 Throwing Exceptions/src"/>
+	<classpathentry kind="src" path="19.050 The Call Stack/src"/>
+	<classpathentry kind="src" path="19.060 Throwing Runtime Exceptions/src"/>
+	<classpathentry kind="src" path="19.070 Custom Exceptions/src"/>
+	<classpathentry kind="src" path="19.080 Handling Multiple Exceptions/src"/>
+	<classpathentry kind="src" path="19.090 Catching Multiple Exceptions/src"/>
+	<classpathentry kind="src" path="19.100 Exception Flow Control/src"/>
+	<classpathentry kind="src" path="19.110 NullPointerException/src"/>
+	<classpathentry kind="src" path="19.120 AutoCloseable/src"/>
+	<classpathentry kind="src" path="19.130 Constructor Exceptions and Close/src"/>
+	<classpathentry kind="src" path="19.140 HandlingConstructorAndCloseExceptions/src"/>
+	<classpathentry kind="src" path="19.150 TryWithResources/src"/>
+	<classpathentry kind="src" path="19.160 TryWithResourcesExample/src"/>
+	<classpathentry kind="src" path="20.010 Integer Types/src"/>
+	<classpathentry kind="src" path="20.020 MinimumAndMaximumValues/src"/>
+	<classpathentry kind="src" path="20.030 Floating Point Types/src"/>
+	<classpathentry kind="src" path="20.040 Class Equivalents of Primitive Types/src"/>
+	<classpathentry kind="src" path="20.060 Widening and Narrowing Conversions/src"/>
+	<classpathentry kind="src" path="20.070 Numeric Literals/src"/>
+	<classpathentry kind="src" path="20.080 The Mod Operator/src"/>
+	<classpathentry kind="src" path="21.005 Introducing the Game of Life"/>
+	<classpathentry kind="src" path="21.010 Basic Swing App - Again/src"/>
+	<classpathentry kind="src" path="21.020 Painting and Drawing/src"/>
+	<classpathentry kind="src" path="21.040 Calculating Margins/src"/>
+	<classpathentry kind="src" path="21.050 Drawing the Grid/src"/>
+	<classpathentry kind="src" path="21.050 Numeric Class Methods/src"/>
+	<classpathentry kind="src" path="21.060 Filling Cells/src"/>
+	<classpathentry kind="src" path="21.070 Front End vs Back End/src"/>
+	<classpathentry kind="src" path="21.080 The Model/src"/>
+	<classpathentry kind="src" path="21.090 Displaying the Model/src"/>
+	<classpathentry kind="src" path="21.100 Handling Mouse Clicks/src"/>
+	<classpathentry kind="src" path="21.110 Converting Mouse Coordinates/src"/>
+	<classpathentry kind="src" path="21.120 Handling Key Presses/src"/>
+	<classpathentry kind="src" path="21.130 Randomizing the Grid/src"/>
+	<classpathentry kind="src" path="21.140 Clearing the Grid/src"/>
+	<classpathentry kind="src" path="21.150 Iterating Over Cells/src"/>
+	<classpathentry kind="src" path="21.160 Counting Neighbours/src"/>
+	<classpathentry kind="src" path="21.170 Life and Death/src"/>
+	<classpathentry kind="src" path="21.180 Implementing the Game of Life Algorithm/src"/>
+	<classpathentry kind="src" path="21.190 Fixing Resize/src"/>
+	<classpathentry kind="src" path="22.010 The File Class/src"/>
+	<classpathentry kind="src" path="22.020 Reading and Writing Text Files/src"/>
+	<classpathentry kind="src" path="22.030 File Locations/src"/>
+	<classpathentry kind="src" path="22.040 Reading Text Files Line By Line/src"/>
+	<classpathentry kind="src" path="22.050 Writing Text Files Line By Line/src"/>
+	<classpathentry kind="src" path="22.060 Serializing Objects/src"/>
+	<classpathentry kind="src" path="22.070 Deserializing Objects/src"/>
+	<classpathentry kind="src" path="22.080 Transient/src"/>
+	<classpathentry kind="src" path="22.090 Serial Version UIDs/src"/>
+	<classpathentry kind="src" path="22.100 Serializing Multiple Objects/src"/>
+	<classpathentry kind="src" path="22.110 Writing Binary Files/src"/>
+	<classpathentry kind="src" path="22.120 Reading Binary Files/src"/>
+	<classpathentry kind="src" path="22.130 Reading Java Class Files/src"/>
+	<classpathentry kind="src" path="22.140 Endianness/src"/>
+	<classpathentry kind="src" path="22.160 File Parsing Exercise Solution/src"/>
+	<classpathentry kind="src" path="23.010 Swing Menus/src"/>
+	<classpathentry kind="src" path="23.020 Save Dialogs/src"/>
+	<classpathentry kind="src" path="23.030 Getting the Selected File/src"/>
+	<classpathentry kind="src" path="23.040 Saving the Grid/src"/>
+	<classpathentry kind="src" path="23.050 File Open Dialogs/src"/>
+	<classpathentry kind="src" path="23.060 Loading Files/src"/>
+	<classpathentry kind="src" path="23.070 Error and Warning Messages/src"/>
+	<classpathentry kind="src" path="24.010 A Simple Hierarchy/src"/>
+	<classpathentry kind="src" path="24.020 A Wrapper Class/src"/>
+	<classpathentry kind="src" path="24.030 Introducing Generics/src"/>
+	<classpathentry kind="src" path="24.050 A Pair Class/src"/>
+	<classpathentry kind="src" path="24.060 An Array Class/src"/>
+	<classpathentry kind="src" path="24.070 Generic Methods/src"/>
+	<classpathentry kind="src" path="24.080 Generic Bounds/src"/>
+	<classpathentry kind="src" path="24.090 Super and PECS I/src"/>
+	<classpathentry kind="src" path="24.100 Super and PECS 2/src"/>
+	<classpathentry kind="src" path="24.110 Util Copy Exercise/src"/>
+	<classpathentry kind="src" path="24.120 Add All Exercise/src"/>
+	<classpathentry kind="src" path="25.010 ArrayList/src"/>
+	<classpathentry kind="src" path="25.020 Iterating through ArrayList/src"/>
+	<classpathentry kind="src" path="25.030 Custom Objects in ArrayLists/src"/>
+	<classpathentry kind="src" path="25.040 Sorting Lists/src"/>
+	<classpathentry kind="src" path="25.050 Implementing Comparable/src"/>
+	<classpathentry kind="src" path="25.060 How Comparable Works/src"/>
+	<classpathentry kind="src" path="25.070 Comparable Example/src"/>
+	<classpathentry kind="src" path="25.080 Comparators/src"/>
+	<classpathentry kind="src" path="25.090 ArrayList Exercise/src"/>
+	<classpathentry kind="src" path="25.100 LinkedList/src"/>
+	<classpathentry kind="src" path="25.110 The List Interface/src"/>
+	<classpathentry kind="src" path="25.120 Initializing Lists With Lists/src"/>
+	<classpathentry kind="src" path="25.130 Static Methods in Interfaces/src"/>
+	<classpathentry kind="src" path="25.140 Variable Arguments/src"/>
+	<classpathentry kind="src" path="25.150 Timing List Operations Exercise/src"/>
+	<classpathentry kind="src" path="25.160 Timing List Operations Solution/src"/>
+	<classpathentry kind="src" path="25.170 Time Complexity/src"/>
+	<classpathentry kind="src" path="25.180 Instanceof/src"/>
+	<classpathentry kind="src" path="25.190 Equals/src"/>
+	<classpathentry kind="src" path="25.200 Removing Items From Lists/src"/>
+	<classpathentry kind="src" path="25.210 ConcurrentModificationException/src"/>
+	<classpathentry kind="src" path="25.220 Iterators/src"/>
+	<classpathentry kind="src" path="25.230 Getting Creative With Iterators/src"/>
+	<classpathentry kind="src" path="25.240 Modifying Lists While Iterating/src"/>
+	<classpathentry kind="src" path="25.250 Ring Buffer Exercise/src"/>
+	<classpathentry kind="src" path="25.260 Ring Buffer Solution/src"/>
+	<classpathentry kind="src" path="25.270 Implementing Iterable/src"/>
+	<classpathentry kind="src" path="25.280 Circular Iterator Exercise/src"/>
+	<classpathentry kind="src" path="25.290 Circular Iterator Solution/src"/>
+	<classpathentry kind="src" path="25.300 ForEachAndIterators/src"/>
+	<classpathentry kind="src" path="25.310 HashSet/src"/>
+	<classpathentry kind="src" path="25.320 Hashing Algorithms/src"/>
+	<classpathentry kind="src" path="25.330 The hashCode Method/src"/>
+	<classpathentry kind="src" path="25.340 UnionAndIntersection/src"/>
+	<classpathentry kind="src" path="25.350 RemoveAll/src"/>
+	<classpathentry kind="src" path="25.360 LinkedHashSet/src"/>
+	<classpathentry kind="src" path="25.370 TreeSet/src"/>
+	<classpathentry kind="src" path="25.380 Set and SortedSet/src"/>
+	<classpathentry kind="src" path="25.390 Collections Review/src"/>
+	<classpathentry kind="src" path="25.400 Sets And Lists Exercise/src"/>
+	<classpathentry kind="src" path="25.410 Sets And Lists Solution 1/src"/>
+	<classpathentry kind="src" path="25.420 Sets and Lists Solution 2/src"/>
+	<classpathentry kind="src" path="25.430 Sets And Lists Solution 3/src"/>
+	<classpathentry kind="src" path="25.440 HashMaps/src"/>
+	<classpathentry kind="src" path="25.450 Static Imports/src"/>
+	<classpathentry kind="src" path="25.460 Initializing Maps/src"/>
+	<classpathentry kind="src" path="25.470 Iterating Through Maps/src"/>
+	<classpathentry kind="src" path="25.480 Ordered Maps/src"/>
+	<classpathentry kind="src" path="25.490 Custom Objects in Maps Exercise/src"/>
+	<classpathentry kind="src" path="25.500 Custom Objects in Maps Solution/src"/>
+	<classpathentry kind="src" path="25.510 Lists of Sets/src"/>
+	<classpathentry kind="src" path="25.520 MapsOfLists/src"/>
+	<classpathentry kind="src" path="25.530 Complex Data Structures/src"/>
+	<classpathentry kind="src" path="25.540 CollectionsAndInheritance/src"/>
+	<classpathentry kind="src" path="26.010 Playing a Note/src"/>
+	<classpathentry kind="src" path="26.020 Playing Chords/src"/>
+	<classpathentry kind="src" path="26.030 MidiExerciseSolution/src"/>
+	<classpathentry kind="src" path="27.010 Collections Rota Exercise/src"/>
+	<classpathentry kind="src" path="27.020 PersonClass/src"/>
+	<classpathentry kind="src" path="27.030 LoadingTheData/src"/>
+	<classpathentry kind="src" path="27.040 Rota Class/src"/>
+	<classpathentry kind="src" path="27.050 Implementing the Rota/src"/>
+	<classpathentry kind="src" path="27.060 Vital Skill Set/src"/>
+	<classpathentry kind="src" path="27.070 Rota Algorithm/src"/>
+	<classpathentry kind="src" path="27.100 Adding People/src"/>
+	<classpathentry kind="src" path="28.010 Lambda Expression Example/src"/>
+	<classpathentry kind="src" path="28.020 Functional Interfaces/src"/>
+	<classpathentry kind="src" path="28.030 A Lambda Expression From Scratch/src"/>
+	<classpathentry kind="src" path="28.040 Lambda Expressions With Single Parameters/src"/>
+	<classpathentry kind="src" path="28.050 Multiple Parameter Lambdas/src"/>
+	<classpathentry kind="src" path="28.060 Return Values in Lambdas/src"/>
+	<classpathentry kind="src" path="28.070 LambdasAndCapture/src"/>
+	<classpathentry kind="src" path="28.100 Unmodifiable Lists/src"/>
+	<classpathentry kind="src" path="28.110 Predicates/src"/>
+	<classpathentry kind="src" path="28.120 Filtering Lists/src"/>
+	<classpathentry kind="src" path="28.130 Function/src"/>
+	<classpathentry kind="src" path="28.140 ReplaceAll/src"/>
+	<classpathentry kind="src" path="28.150 LambdaExercise/src"/>
+	<classpathentry kind="src" path="28.160 Multithreading/src"/>
+	<classpathentry kind="src" path="28.170 Incrementing via Threads/src"/>
+	<classpathentry kind="src" path="28.180 Synchronized/src"/>
+	<classpathentry kind="src" path="29.010 Method References/src"/>
+	<classpathentry kind="src" path="29.020 Breaking Down Method References/src"/>
+	<classpathentry kind="src" path="29.030 Method Reference Examples/src"/>
+	<classpathentry kind="src" path="29.040 References to Methods of Particular Objects/src"/>
+	<classpathentry kind="src" path="29.050 References to Methods of Arbitary Objects/src"/>
+	<classpathentry kind="src" path="29.060 Compare To Method Reference/src"/>
+	<classpathentry kind="src" path="29.070 References to Constructors/src"/>
+	<classpathentry kind="src" path="30.010 Streams/src"/>
+	<classpathentry kind="src" path="30.020 Generating Streams/src"/>
+	<classpathentry kind="src" path="30.030 Generating Streams from Files/src"/>
+	<classpathentry kind="src" path="30.040 Transforming Streams/src"/>
+	<classpathentry kind="src" path="30.050 Regular Expressions/src"/>
+	<classpathentry kind="src" path="30.060 Collectors/src"/>
+	<classpathentry kind="src" path="30.070 Peek/src"/>
+	<classpathentry kind="src" path="30.080 FlatMap/src"/>
+	<classpathentry kind="src" path="30.090 Stream Exercise 1/src"/>
+	<classpathentry kind="src" path="30.100 Reduce/src"/>
+	<classpathentry kind="src" path="30.110 Combiners/src"/>
+	<classpathentry kind="src" path="30.120 Stream Exercise 2/src"/>
+	<classpathentry kind="src" path="30.130 Implementing Collectors/src"/>
+	<classpathentry kind="src" path="30.140 Streams Exercise 3/src"/>
+	<classpathentry kind="src" path="30.150 Combining Maps/src"/>
+	<classpathentry kind="src" path="30.160 Implementing the Solution/src"/>
+	<classpathentry kind="src" path="30.170 Filter/src"/>
+	<classpathentry kind="src" path="30.180 Map Exercise/src"/>
+	<classpathentry kind="src" path="30.190 Sorting Streams/src"/>
+	<classpathentry kind="src" path="30.200 Group By/src"/>
+	<classpathentry kind="src" path="30.210 Streams and Static Imports/src"/>
+	<classpathentry kind="src" path="30.230 Stream Exercise 4/src"/>
+	<classpathentry kind="src" path="30.240 Multiplication Table With ForEach/src"/>
+	<classpathentry kind="src" path="30.250 Stream Multiplication in a Single String/src"/>
+	<classpathentry kind="src" path="32.010 Numbering Systems/src"/>
+	<classpathentry kind="src" path="32.020 Formatting Binary Numbers/src"/>
+	<classpathentry kind="src" path="32.030 Bitwise And Or/src"/>
+	<classpathentry kind="src" path="32.040 Bitwise Exclusive Or and Not/src"/>
+	<classpathentry kind="src" path="32.050 Bitwise Shift/src"/>
+	<classpathentry kind="src" path="32.060 Bitwise Hexadecimal/src"/>
+	<classpathentry kind="src" path="32.070 Bitwise Exercise Solution/src"/>
+	<classpathentry kind="src" path="33.010 Hello Again Swing/src"/>
+	<classpathentry kind="src" path="33.020 Setting Pixels/src"/>
+	<classpathentry kind="src" path="33.030 Wolfram Code/src"/>
+	<classpathentry kind="src" path="33.040 Using the Wolfram Code/src"/>
+	<classpathentry kind="src" path="33.050 Getting Colors/src"/>
+	<classpathentry kind="src" path="33.060 Forming the Index/src"/>
+	<classpathentry kind="src" path="33.070 Implementing the Rule/src"/>
+	<classpathentry kind="src" path="34.020 Creating a Module/src"/>
+	<classpathentry kind="src" path="34.030 Using Modules/src"/>
+	<classpathentry kind="src" path="36.020 Factorial Solution/src"/>
+	<classpathentry kind="src" path="36.030 Recursion/src"/>
+	<classpathentry kind="src" path="36.040 UsingRecursion/src"/>
+	<classpathentry kind="src" path="36.050 Recursive Factorial Solution/src"/>
+	<classpathentry kind="src" path="GenerateWave/src"/>
+	<classpathentry kind="src" path="JarExport/src"/>
+	<classpathentry kind="src" path="JarImport/src"/>
+	<classpathentry kind="src" path="orphaned/CollectionsExercise/src"/>
+	<classpathentry kind="src" path="orphaned/DefaultMethods/src"/>
+	<classpathentry kind="src" path="orphaned/DisplayingBlanks/src"/>
+	<classpathentry kind="src" path="orphaned/DisplayingWords/src"/>
+	<classpathentry kind="src" path="orphaned/FloatingPointVariables/src"/>
+	<classpathentry kind="src" path="orphaned/HandlingResize/src"/>
+	<classpathentry kind="src" path="orphaned/MainRevisited/src"/>
+	<classpathentry kind="src" path="orphaned/SwingExample/src"/>
+	<classpathentry kind="src" path="orphaned/TheGuessWordClass/src"/>
+	<classpathentry kind="src" path="orphaned/Threads/src"/>
+	<classpathentry kind="src" path="ReactionTimes/src"/>
+	<classpathentry excluding="src/" kind="src" path="04.010 While Loops"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="cellular-1.0.jar"/>
+	<classpathentry kind="lib" path="JarImport/lib/gameoflife-1.0.jar"/>
+	<classpathentry kind="lib" path="JarImport/lib/model.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
